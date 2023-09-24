@@ -14,7 +14,7 @@ function SignIn() {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar hidden={true} />
-      <Text style={styles.signup}>Sign In</Text>
+      <Text style={styles.signup}>Sign In 1</Text>
       <TextInput placeholder="Email" style={styles.input} />
       <TextInput
         placeholder="Password"
