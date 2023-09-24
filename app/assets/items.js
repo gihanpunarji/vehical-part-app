@@ -15,7 +15,7 @@ export default [
     id: "3",
     title: "Add Parts",
     backgroundColor: "lightcoral",
-    href: "components/addParts",
+    href: "components/addparts",
   },
   {
     id: "4",
